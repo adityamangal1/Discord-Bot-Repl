@@ -1,6 +1,7 @@
 # Mr Slave Discord-Bot
 
-![cute-elephant-sitting-waving-hand-cartoon-vector-icon-illustration_138676-2220](https://user-images.githubusercontent.com/68494604/123546649-22d0f180-d77b-11eb-9a92-a4fbff815d47.jpg)
+![images](https://user-images.githubusercontent.com/68494604/124107400-d17a7800-da82-11eb-913f-7cda6af224ae.jpg)
+
 
 Discord Bot Ai made with Python programming language.
 
