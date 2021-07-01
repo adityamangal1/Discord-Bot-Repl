@@ -53,6 +53,5 @@ async def on_message(message):
         await message.channel.send(gif)
 
 keep_alive()
-# token = os.environ.get("DISCORD_BOT_SECRET")
-token = "ODU4NjUxNjk1NDQwMTk5Njky.YNhPtQ.ZlccFX7KZe5r3ZcsS9DUGZZnOtg"
+token = os.environ.get("DISCORD_BOT_SECRET")
 client.run(token)
